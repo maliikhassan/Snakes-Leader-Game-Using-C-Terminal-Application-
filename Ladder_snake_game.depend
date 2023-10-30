@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1689530178 source:c:\users\dr_programmer\desktop\pf-assignment-4\ladder_snake_game\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+
